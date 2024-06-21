@@ -1,1 +1,3 @@
-# Frontend-test-solutions
+# Frontend test solutions
+
+Сборник тестовых заданий по Frontend, которые я делал для возможности попасть на стажировку/работу
