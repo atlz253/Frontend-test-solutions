@@ -2,8 +2,8 @@
 
 Разработать интерфейс для сайта [Free-To-Play Games](https://www.freetogame.com/), состоящий из двух страниц. Разработанный сайт можно посмотреть по [этой ссылке](https://atlz253.github.io/game-watch/).
 
-![Скриншот страницы игры](https://raw.githubusercontent.com/atlz253/game-watch/main/screenshots/1.png)
-![Скриншот списка игр](https://raw.githubusercontent.com/atlz253/game-watch/main/screenshots/2.png)
+<img src="screenshots/1.png" />
+<img src="screenshots/2.png" />
 
 ## Как запустить проект
 
