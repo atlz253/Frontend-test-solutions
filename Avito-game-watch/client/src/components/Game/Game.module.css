@@ -1,0 +1,20 @@
+.container {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.thumbnail {
+  border-radius: 0.5rem;
+  width: 100%;
+}
+
+.carouselWrapper {
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.skeletonImageWrapper {
+  width: 100% !important;
+  height: 100%;
+}
